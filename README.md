@@ -149,8 +149,10 @@ def rectarea(request):
     return render(request,'myapp/math.html',context)
 ```
 ## OUTPUT:
-![OUTPUT](.. /home/project/ex05/ex051.png)
+![ex05 1](https://github.com/RagulRM/serversideprocessing/assets/121609342/7a00ce02-7a55-44ab-bd8c-b5b4175f18a7)
+
 ### Home Page:
-![HOMEPAGE](.. /ex05.png)
+![ex05](https://github.com/RagulRM/serversideprocessing/assets/121609342/657b06bf-d2b6-478a-89c2-ba37d63d3d92)
+
 ## Result:
 The program for implementing server side processing is completed successfully.
